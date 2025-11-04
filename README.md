@@ -33,9 +33,11 @@ Esse projeto me ajudou a aprender e foi desenvolvido com as seguintes tecnologia
 
 ## 💻 Projeto
 
-O projeto do curso da rocketseat backend e frontend é um agregador de links para usar como cartão de    visitas online.
+O projeto Devlinks é um agregador de links para usar como cartão de  visitas online.
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o meu projeto finalizado, online](https://smooth00724.github.io/projeto-curso-rocketseat-backend-frontend/)
+
+- [Acesse o projeto finalizado, online do professor](https://maykbrito.github.io/devlinks)
 
 - [Assistir aulas](https://app.rocketseat.com.br/journey/discover/contents)
 
