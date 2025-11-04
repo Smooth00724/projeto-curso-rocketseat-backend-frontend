@@ -37,8 +37,6 @@ O projeto Devlinks é um agregador de links para usar como cartão de  visitas o
 
 - [Acesse o meu projeto finalizado, online](https://smooth00724.github.io/projeto-curso-rocketseat-backend-frontend/)
 
-- [Acesse o projeto finalizado, online do professor](https://maykbrito.github.io/devlinks)
-
 - [Assistir aulas](https://app.rocketseat.com.br/journey/discover/contents)
 
 ## 🔖 Layout
