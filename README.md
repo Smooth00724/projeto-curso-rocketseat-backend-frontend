@@ -1,4 +1,4 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center"> projeto do curso da rocketseat backend e frontend</h1>
 
 <p align="center">
 Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -19,7 +19,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.png" width="100%">
+  <img alt="projeto do curso da rocketseat backend e frontend" src=".github/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias e Aprendizado
@@ -33,7 +33,7 @@ Esse projeto me ajudou a aprender e foi desenvolvido com as seguintes tecnologia
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O projeto do curso da rocketseat backend e frontend é um agregador de links para usar como cartão de    visitas online.
 
 - [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
 
