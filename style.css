@@ -1,0 +1,178 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+:root{
+
+    --text-color: white;
+    --bg-url: url(./assets/Screenshot_1.jpg)
+}
+
+.light{
+
+    --text-color: rgb(0, 0, 255); 
+    --bg-url: url(./assets/Screenshot_2.jpg)
+
+}
+
+
+
+body {
+    /*
+    background-image: url(./assets/bg-mobile.jpg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    */
+
+    /* short read */
+    background: var(--bg-url) no-repeat top center/cover
+
+}
+body * {
+  font-family: "Oswald", sans-serif;
+ 
+}
+#container {
+    width: 360px;
+
+    margin: 56px auto ;
+
+    padding: 0px 24px;
+    
+    
+    
+    
+    
+
+}
+#profile{
+
+    text-align: center;
+    color: var(--text-color);
+    padding: 24px;
+}
+#profile img{
+    width: 112px;
+    
+}
+#profile p{
+    margin-top: 8px;
+    font-weight: 700;
+    font-size: 17px;
+    
+
+}
+
+
+
+/* links */
+
+ul{
+
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 24px 0px;
+
+
+}
+
+ul li a{
+
+    
+    display: flex;
+    justify-content: center;
+    padding: 16px 24px;
+    color: var(--text-color);
+    
+    
+    
+    background: rgba(58, 4, 255, 0.051) ;
+    border-radius: 50px;
+    backdrop-filter: blur(10px);
+    
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+
+    transition: all 1s;
+
+
+}
+
+/*  pseudo-slector  */
+
+ul li a:hover {
+
+    background: rgba(255, 255, 255, 0.151);
+
+   
+
+
+
+
+}
+
+
+/* social links */
+
+ion-icon{
+
+    color: white;
+    font-size: 32px;
+   
+
+
+
+
+}
+
+#Socialink{
+  
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+   
+    
+    
+    
+}
+
+#Socialink a{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    
+    
+    border-radius: 50%;
+    transition: all 0.2s;
+    
+    
+
+}
+
+   
+
+
+#Socialink a:hover{
+
+    background-color: rgba(240, 248, 255, 0.158);
+    
+
+}
+
+footer { 
+    
+    padding: 24px 0px;
+    text-align: center;
+    color: rgb(11, 11, 255);
+    font-size: 15px;
+
+}
